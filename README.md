@@ -70,16 +70,3 @@ Processed 1000000 orders in 152 ms
 	•	Multi-threaded matching engine
 	•	Persistent trade log (to file or database)
 	•	API layer (REST/WebSocket) for live trading simulation
-
-⸻
-
-👨‍💻 Author
-	•	Xiaochuan Li – MSc Financial Engineering
-	•	LinkedIn
-	•	GitHub
-
-⸻
-
-📜 License
-
-This project is licensed under the MIT License – see the LICENSE file for details.
